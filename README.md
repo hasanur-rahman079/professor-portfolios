@@ -14,4 +14,4 @@ A list of Professors personal/laboratory websites for your inspiration
 - [HKUST SMART Lab](https://github.com/HKUSTSMARTLab/HKUSTSMARTLab.github.io)
 - [Rendeiro lab](https://github.com/rendeirolab/rendeirolab.github.io)
 - [Advanced Information Systems Laboratory](https://github.com/IAAA-Lab/IAAA-Lab.github.io)
--
+- [Sebat Lab](https://sebatlab.org/)
